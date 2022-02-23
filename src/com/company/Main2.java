@@ -6,7 +6,7 @@ public class Main2 {
     public static void main(String[] args){
         int peopleage;
         int constage;
-        constage = 62;
+        constage = 64;
         Scanner num = new Scanner(System.in);
         System.out.println("How old are you?");
         peopleage = num.nextInt();
