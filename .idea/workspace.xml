@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01b61f36-5c82-4c6c-b8ec-a3733dabcec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Mathematics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java2/com/company/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java2/com/company/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java2/com/company/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java2/com/company/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java2/com/company/Main6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java2/com/company/Main6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.Main17">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Game" />
       <module name="Java2" />
@@ -111,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main12" />
+    <configuration name="Main14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main14" />
       <module name="Java2" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main13" />
+    <configuration name="Main15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main15" />
       <module name="Java2" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main6" />
+    <configuration name="Main17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main17" />
       <module name="Java2" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main17" />
+        <item itemvalue="Application.Main15" />
+        <item itemvalue="Application.Main14" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.Mathematics" />
-        <item itemvalue="Application.Main13" />
-        <item itemvalue="Application.Main12" />
-        <item itemvalue="Application.Main6" />
       </list>
     </recent_temporary>
   </component>
