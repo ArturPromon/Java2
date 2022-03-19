@@ -32,8 +32,7 @@ public class Main17 {
                 }
                 i++;
             }
-
-       System.out.println(count);
+        System.out.println(count);
         System.out.println(total);
         System.out.println(words);
     }
